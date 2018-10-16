@@ -8,11 +8,11 @@
   transition: all .5s linear;
 }
 
-#bear-face:hover #left-ear {
+#bear:hover #left-ear {
   transform: translateY(0);
 }
 
-#bear-face:hover #right-ear {
+#bear:hover #right-ear {
   transform: translateY(0);
 }
 
