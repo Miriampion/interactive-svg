@@ -24,10 +24,10 @@
 
   0% {
     transform: translateX(-10px);
- }
+  }
 
   100% {
     transform: translateX(5px);
- }
+  }
 
 }
